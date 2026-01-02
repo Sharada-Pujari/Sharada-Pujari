@@ -40,8 +40,9 @@ An intelligent research assistant that autonomously searches, analyzes, and crea
 ### 📚 [Book Management System](https://github.com/Sharada-Pujari/Book_Management_System)
 Java-based application for managing book inventories with CRUD operations and user-friendly interface.
 
-### 🎨 [Color Game](https://github.com/Sharada-Pujari/Color_Game)
+### 🍽️ [Food Recipe App](https://github.com/Sharada-Pujari/Food-Recipe-App/)
 Interactive web game built with HTML, CSS, and JavaScript to test color recognition skills.
+Live Demo  https://food-recipe-app-git-main-sharadas-projects-2f82ee56.vercel.app?_vercel_share=Ytj0e9AxFAZ1OFCDhaTv2c7vp9RZanRw
 
 ## 📈 GitHub Stats
 
