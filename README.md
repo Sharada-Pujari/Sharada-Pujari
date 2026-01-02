@@ -42,8 +42,11 @@ Java-based application for managing book inventories with CRUD operations and us
 
 ### 🍽️ [Food Recipe App](https://github.com/Sharada-Pujari/Food-Recipe-App/)
 Interactive web game built with HTML, CSS, and JavaScript to test color recognition skills.
-![Live Demo](https://food-recipe-app-git-main-sharadas-projects-2f82ee56.vercel.app?_vercel_share=Ytj0e9AxFAZ1OFCDhaTv2c7vp9RZanRw)
+[Live Demo](https://food-recipe-app-git-main-sharadas-projects-2f82ee56.vercel.app?_vercel_share=Ytj0e9AxFAZ1OFCDhaTv2c7vp9RZanRw)
 
+### [AI Research Assistant](https://github.com/Sharada-Pujari/ai-research-assistant)
+An intelligent research assistant that autonomously searches, analyzes, and creates comprehensive research reports on any topic using multiple AI agents.
+[Live Demo](https://ai-research-assistant-5ueobkvrewjcgidq5zxxb5.streamlit.app/)
 
 ## 🤝 Connect with Me
 
