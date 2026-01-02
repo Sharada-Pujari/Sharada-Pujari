@@ -44,12 +44,6 @@ Java-based application for managing book inventories with CRUD operations and us
 Interactive web game built with HTML, CSS, and JavaScript to test color recognition skills.
 ![Live Demo](https://food-recipe-app-git-main-sharadas-projects-2f82ee56.vercel.app?_vercel_share=Ytj0e9AxFAZ1OFCDhaTv2c7vp9RZanRw)
 
-## 📈 GitHub Stats
-
-![Sharada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharada-Pujari&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharada-Pujari&layout=compact&theme=radical)
-
 
 ## 🤝 Connect with Me
 
