@@ -34,7 +34,7 @@ I'm a passionate developer and AIML enthusiast focused on building impactful pro
 ### 🧠 [Brain Stroke Prediction Using ML](https://github.com/Sharada-Pujari/BRAIN-STROKE-PREDICTION-USING-ML)
 Machine learning model to predict the likelihood of brain strokes based on patient data. Built using Python and scikit-learn.
 
-### 🏠 [AI Research Assistant - Agentic AI Project](https://github.com/Sharada-Pujari/ai-research-assistant)
+### [AI Research Assistant - Agentic AI Project](https://github.com/Sharada-Pujari/ai-research-assistant)
 An intelligent research assistant that autonomously searches, analyzes, and creates comprehensive research reports on any topic using multiple AI agent.
 
 ### 📚 [Book Management System](https://github.com/Sharada-Pujari/Book_Management_System)
